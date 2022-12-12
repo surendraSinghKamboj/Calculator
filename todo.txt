@@ -1,0 +1,5 @@
+[+] Multi Symbols
+[+] SqrRoot Fix
+[+] display out bug fix
+[+] BackSpace Adjuseted
+[+] Percent Calculation

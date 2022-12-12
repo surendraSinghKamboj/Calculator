@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "DSDIGI";
+  src: url("./DSDIGI.eot");
+  src: local("DSDIGI"), url("./DSDIGI.woff") format("woff");
+}
+.display {
+  font-family: "DSDIGI" !important;
+}
